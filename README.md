@@ -40,14 +40,7 @@
 
 🔹 **[Automatic Biometric Lock (Arduino)](https://www.linkedin.com/posts/tanmay-t-141059296_iot-arduino-innovation-activity-7206304532522258434-0_nm)**  
 > Biometric lock using Arduino Uno + Solenoid + Bluetooth
-
----
-
-## 🧬 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/tanmay4518-07/tanmay4518-07/output/github-contribution-grid-snake.svg" />
-</p>
+ 
 
 ---
 
