@@ -36,7 +36,7 @@
 
 🔹 **[Wine Quality Prediction](https://github.com/tanmay4518-07/wine_quality_predictor)**  
 > Predicts wine quality using ML models on UCI dataset  
-➡ [LinkedIn Post](https://www.linkedin.com/posts/tanmay-t-141059296_machinelearning-winequality-datascience-activity-7335276457763450881-_2HZ)
+
 
 🔹 **[Automatic Biometric Lock (Arduino)](https://www.linkedin.com/posts/tanmay-t-141059296_iot-arduino-innovation-activity-7206304532522258434-0_nm)**  
 > Biometric lock using Arduino Uno + Solenoid + Bluetooth
